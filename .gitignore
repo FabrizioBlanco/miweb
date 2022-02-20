@@ -1,0 +1,2 @@
+//aquí se ignoran los archivos o directorios/carpetas que no queremos que se commiteen en git
+.env
